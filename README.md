@@ -2,6 +2,8 @@
 🌤 Weather App
 A simple and elegant weather application that fetches real-time weather data using the OpenWeather API and displays it with dynamic icons.
 
+
+
 🚀 Features
 ✅ Search for weather information by city name
 ✅ Displays temperature, humidity, and wind speed
